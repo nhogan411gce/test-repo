@@ -58,7 +58,7 @@
       "timezone": "MST",
       "location": "3300 W Camelback Rd, Phoenix, AZ 85017",
       "description": "This is the second event",
-      "counselorId": 2
+      "counselorIds": [2]
     },
     {
       "id": 3,
@@ -68,7 +68,7 @@
       "timezone": "MST",
       "location": "3300 W Camelback Rd, Phoenix, AZ 85017",
       "description": "This is the third event",
-      "counselorId": [1,2]
+      "counselorIds": [1,2]
     }
   ]
 }
