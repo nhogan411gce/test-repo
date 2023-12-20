@@ -48,7 +48,7 @@
       "timezone": "MST",
       "location": "3300 W Camelback Rd, Phoenix, AZ 85017",
       "description": "This is the first event",
-      "counselorIds": [1,2]
+      "counselorId": 1
     },
     {
       "id": 2,
@@ -58,7 +58,7 @@
       "timezone": "MST",
       "location": "3300 W Camelback Rd, Phoenix, AZ 85017",
       "description": "This is the second event",
-      "counselorIds": [2]
+      "counselorId": 2
     },
     {
       "id": 3,
@@ -68,7 +68,17 @@
       "timezone": "MST",
       "location": "3300 W Camelback Rd, Phoenix, AZ 85017",
       "description": "This is the third event",
-      "counselorIds": [1,2]
+      "counselorId": 1
+    },
+    {
+      "id": 4,
+      "title": "Event 4",
+      "date": "2018-04-04",
+      "time": "12:00",
+      "timezone": "MST",
+      "location": "3300 W Camelback Rd, Phoenix, AZ 85017",
+      "description": "This is the third event",
+      "counselorId": 2
     }
   ]
 }
