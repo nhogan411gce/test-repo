@@ -10,7 +10,7 @@
       "banner-src-url": "https://c.gcu.edu/images/subheader-arena-night-1.jpg?faeed5dec8de61538b9b3dffe984fe26",
       "banner-alt-text": "the exterior of the GCU arena at night",
       "headshot-src-url": "https://c.gcu.edu/images/uploads/tracy.sanders_Tracy1.jpg",
-      
+      "body-content": "<p>Welcome!</p><p>Whether you're a community college transfer student or a working adult, Grand Canyon University (GCU) has degree programs and student resources to help you be successful on your academic journey. As your local university counselor, I am available to meet with you to discuss your academic goals and the benefits available to you, including:<ul><li>Cost reduction options and scholarship opportunities</li><li>24-hour complimentary unofficial pre-evaluation to determine applicable, previously earned credit based on your unofficial transcript</li><li>Flexible programs of study tailored to your needs and interests</li><li>Expert step-by-step guidance along the way</li></ul></p><p>Earning your degree from GCU represents a positive next step in achieving your career goals. Founded in 1949, GCU offers a wide variety of bachelor's, master's and doctoral degree programs in business, education, Christian studies, arts and media, science, technology, engineering and math (STEM) as well as nursing and health sciences. Classes can be taken at our Phoenix campus or online.</p><p>Please complete the following information, and I will contact you as soon as possible to help answer any questions you may have.</p>",
       "rmi-link": "whatever",
       "events-rmi-link": "whatever"
     },
@@ -24,13 +24,16 @@
       "banner-src-url": "https://c.gcu.edu/images/subheader-arena-night-1.jpg?faeed5dec8de61538b9b3dffe984fe26",
       "banner-alt-text": "the exterior of the GCU arena at night",
       "headshot-src-url": "https://c.gcu.edu/images/uploads/qA1Az2Apz53EY7kjT1wSu6VMVvdjQASbFqD0ecjA.jpg",
+      "body-content": "<p>Welcome!</p><p>Whether you're a community college transfer student or a working adult, Grand Canyon University (GCU) has degree programs and student resources to help you be successful on your academic journey. As your local university counselor, I am available to meet with you to discuss your academic goals and the benefits available to you, including:<ul><li>Cost reduction options and scholarship opportunities</li><li>24-hour complimentary unofficial pre-evaluation to determine applicable, previously earned credit based on your unofficial transcript</li><li>Flexible programs of study tailored to your needs and interests</li><li>Expert step-by-step guidance along the way</li></ul></p><p>Earning your degree from GCU represents a positive next step in achieving your career goals. Founded in 1949, GCU offers a wide variety of bachelor's, master's and doctoral degree programs in business, education, Christian studies, arts and media, science, technology, engineering and math (STEM) as well as nursing and health sciences. Classes can be taken at our Phoenix campus or online.</p><p>Please complete the following information, and I will contact you as soon as possible to help answer any questions you may have.</p>",
       "rmi-link": "whatever",
       "events-rmi-link": "whatever"
     },
-  ]
-  "school": {
-    "default-content": "<p>There is unrest in the Galactic Senate. Several thousand solar systems have declared their intentions to leave the Republic. This separatist movement, under the leadership of the mysterious Count Dooku, has made it difficult for the limited number of Jedi Knights to maintain peace and order in the galaxy. Senator Amidala, the former Queen of Naboo, is returning to the Galactic Senate to vote on the critical issue of creating an ARMY OF THE REPUBLIC to assist the overwhelmed Jedi....</p>"
-  },
+  ],
+  "schools": [
+    {
+      "default-content": "<p>There is unrest in the Galactic Senate. Several thousand solar systems have declared their intentions to leave the Republic. This separatist movement, under the leadership of the mysterious Count Dooku, has made it difficult for the limited number of Jedi Knights to maintain peace and order in the galaxy. Senator Amidala, the former Queen of Naboo, is returning to the Galactic Senate to vote on the critical issue of creating an ARMY OF THE REPUBLIC to assist the overwhelmed Jedi....</p>"
+    },
+  ],
   "events": [
     {
       "title": "Event 1",
