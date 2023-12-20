@@ -1,7 +1,7 @@
 {
   "counselors": [
     {
-      "id": "tracy.sanders",
+      "id": 1,
       "name": "Tracy Sanders",
       "title": "Enrollment Counselor",
       "department": "Student Services",
