@@ -1,0 +1,44 @@
+{
+  "counselor": {
+    "name": "Tracy Sanders",
+    "title": "Enrollment Counselor",
+    "department": "Student Services",
+    "email": "counselor@counselor.edu",
+    "phone": "123-456-7890",
+    "banner-src-url": "https://c.gcu.edu/images/subheader-arena-night-1.jpg?faeed5dec8de61538b9b3dffe984fe26",
+    "banner-alt-text": "the exterior of the GCU arena at night",
+    "headshot-src-url": "https://c.gcu.edu/images/uploads/tracy.sanders_Tracy1.jpg",
+    "body-content": "<p>Turmoil has engulfed the Galactic Republic. The taxation of trade routes to outlying star systems is in dispute. Hoping to resolve the matter with a blockade of deadly battleships, the greedy Trade Federation has stopped all shipping to the small planet of Naboo. While the Congress of the Republic endlessly debates this alarming chain of events, the Supreme Chancellor has secretly dispatched two Jedi Knights, the guardians of peace and justice in the galaxy, to settle the conflict....</p> <p>There is unrest in the Galactic Senate. Several thousand solar systems have declared their intentions to leave the Republic. This separatist movement, under the leadership of the mysterious Count Dooku, has made it difficult for the limited number of Jedi Knights to maintain peace and order in the galaxy. Senator Amidala, the former Queen of Naboo, is returning to the Galactic Senate to vote on the critical issue of creating an ARMY OF THE REPUBLIC to assist the overwhelmed Jedi....</p>",
+    "rmi-link": "whatever",
+    "events-rmi-link": "whatever"
+  },
+  "school": {
+    "default-content": "<p>There is unrest in the Galactic Senate. Several thousand solar systems have declared their intentions to leave the Republic. This separatist movement, under the leadership of the mysterious Count Dooku, has made it difficult for the limited number of Jedi Knights to maintain peace and order in the galaxy. Senator Amidala, the former Queen of Naboo, is returning to the Galactic Senate to vote on the critical issue of creating an ARMY OF THE REPUBLIC to assist the overwhelmed Jedi....</p>"
+  },
+  "events": [
+    {
+      "title": "Event 1",
+      "date": "2018-01-01",
+      "time": "12:00",
+      "timezone": "MST",
+      "location": "3300 W Camelback Rd, Phoenix, AZ 85017",
+      "description": "This is the first event"
+    },
+    {
+      "title": "Event 2",
+      "date": "2018-02-02",
+      "time": "12:00",
+      "timezone": "MST",
+      "location": "3300 W Camelback Rd, Phoenix, AZ 85017",
+      "description": "This is the second event"
+    },
+    {
+      "title": "Event 3",
+      "date": "2018-03-03",
+      "time": "12:00",
+      "timezone": "MST",
+      "location": "3300 W Camelback Rd, Phoenix, AZ 85017",
+      "description": "This is the third event"
+    }
+  ]
+}
